@@ -1,4 +1,4 @@
-MissileCommand
+RedRain
 -------------------------------------
 [Asset Store Link](http://u3d.as/CLj)  
 © 2017 Justin Garza
@@ -37,7 +37,7 @@ Table of Contents
 How to Play
 -------------------------------------
 1. Hit Play Button  
-![Imgur](http://i.imgur.com/hwDIFAwl.png)
+![Imgur](http://i.imgur.com/xVlCi9Gl.png)
 
 2. Drag your finger on the bottom part of the screen to move the cursor/crosshairs.  
 ![Imgur](http://i.imgur.com/e0Sfc0hl.png)
